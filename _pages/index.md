@@ -8,7 +8,7 @@ classes:
   - landing
 header:
   overlay_color: "#000"
-  overlay_filter: "0.4"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/banner2.jpg
 excerpt: "<br>"
 intro: 
