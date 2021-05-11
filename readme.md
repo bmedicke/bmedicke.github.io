@@ -1,4 +1,4 @@
-# [bmedicke.github.io](https://bmedicke.github.io)
+# [benmedicke.com](https://benmedicke.com)
 
 ## local development
 
