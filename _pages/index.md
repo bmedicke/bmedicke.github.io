@@ -3,14 +3,14 @@ layout: splash
 permalink: "/"
 classes:
   - landing
-title: '<br>portfolio'
+title: '<br><br>portfolio'
 classes:
   - landing
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: /assets/images/banner2.jpg
-excerpt: ""
+excerpt: "<br>"
 intro: 
   - excerpt: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
