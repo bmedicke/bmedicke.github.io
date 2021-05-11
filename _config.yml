@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Benjamin Medicke"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am currently doing a master's degree in IT security."
+  bio    : "I am currently pursuing a master's degree in IT security."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"

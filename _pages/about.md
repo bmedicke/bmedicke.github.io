@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-I am currently doing a master’s degree in IT security.
+I am currently pursuing a master’s degree in IT security.
