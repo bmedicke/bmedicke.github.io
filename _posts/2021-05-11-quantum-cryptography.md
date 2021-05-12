@@ -14,26 +14,28 @@ tags:
   - security
 ---
 
+## the project
+
+The goal of this project is to demonstrate quantum-cryptography-based one-time pad communication via
+the BB84 protocol using a non-single photon source.
 
 ## quantum key distribution
 
-The basic order of events are the following two steps:
+The basic order of events for the BB84 protocol are the following two steps:
 
-1. generating a one time pad between Alice and Bob
-2. then checking if anybody was eavesdropping
+1. generate a one time pad between Alice and Bob
+2. check if anybody was eavesdropping
 
 ---
 
-* after sharing the key a test is performed:
-  * if anybody was listening the key is discarded
-  * if not they now have a new key to communicate with
-* the reason why this works is because **any measurement on a quantum object leaves a trace**
-  * it is impossible to read information traveling over a quantum channel without perturbing it
+After sharing the key a test is performed: if anybody was listening the key is discarded,
+if not they now have a new key to communicate with.  The reason why this works is because **any measurement on a quantum object leaves a trace**.
+It is impossible to read information traveling over a quantum channel without perturbing it.
 
 ### BB84 protocol
 
-* this scheme can use any quantum object with a two value observeable
-* in practice the quantum object is the **polarization of a photon** (quantum optics)
+The BB84 scheme can use any quantum object with a two value observable.
+In practice the quantum object is the **polarization of a photon** (quantum optics).
 
 #### prerequisites Alice
 
@@ -49,7 +51,7 @@ The **HV set** is located along the X and Y axis. The **LR set** 45 degrees rota
 
 #### prerequisites Bob
 
-Bob has two polarization beam splitters with which he analyzes photons sent by Alice. One oriented at 0 degrees (vertical) and one at 45 degres (diagonal).
+Bob has two polarization beam splitters with which he analyzes photons sent by Alice. One oriented at 0 degrees (vertical) and one at 45 degrees (diagonal).
 The **vertical beam splitter** can analyze photons of the HV set. The **diagonal beam splitter** can analyze photons of the LR set.
 
 Each beam splitter can produce two values.
@@ -60,7 +62,7 @@ Each beam splitter can produce two values.
   1. **L**, left
   2. **R**, right
 
-To obtain the orinal value of a photon (without fail) the orientations of Alice and Bob have to match up. Some examples:
+To obtain the original value of a photon (without fail) the orientations of Alice and Bob have to match up. Some examples:
 
 * inputting H into the vertical beam splitter will always return H (match)
 * inputting V into the vertical beam splitter will always return V (match)
@@ -80,10 +82,10 @@ For each (potential) bit of the key the following happens:
 
 After sending a bunch of photons we move on to the next step: **reconciliation**.
 
-* Bob publicly annouces all his chosen beam splitter orientations
+* Bob publicly announces all his chosen beam splitter orientations
 * Alice publicly replies which were correct
 * They both drop all the values where Bob chose wrong
-* They now hold the key (which consinsts of all values where Bob chose correctly)
+* They now hold the key (which consists of all values where Bob chose correctly)
 
 #### consequences of eavesdropping
 
