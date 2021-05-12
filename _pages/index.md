@@ -61,9 +61,11 @@ feature_row_more_info:
   - image_path: "assets/images/auckland_marina.gif"
     alt: "arvakr: timelpase of the auckland marina"
     excerpt: <br>
+    image_caption: arvakr
   - image_path: "assets/images/cellular5.png"
     alt: "cellurar-automata-mapgen: 3D view"
     excerpt: <br>
+    image_caption: "cellular-automata-mapgen"
   - url: "https://github.com/bmedicke"
     title: "more projects"
     excerpt: "<br>"
