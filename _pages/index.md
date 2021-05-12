@@ -49,6 +49,19 @@ feature_row_amalthea:
     alt: "amalthea: speedtest graph"
     excerpt: <br>
 
+feature_row_reed:
+  - url: ""
+    title: "REED"
+    excerpt: "collection of notes about reverse engineering and exploit development"
+    btn_label: "read more"
+    btn_class: "btn--light-outline btn--small"
+  - image_path: "assets/images/stack-frame-main-function-prologue-a.jpg"
+    alt: ""
+    excerpt: "<br>"
+  - image_path: "assets/images/payload-exit-in-memory-visual.jpg"
+    alt: ""
+    excerpt: <br>
+
 feature_row_more_info:
   - image_path: "assets/images/auckland_marina.gif"
     alt: "arvakr: timelpase of the auckland marina"
@@ -65,9 +78,8 @@ feature_row_more_info:
 ---
 
 {% include feature_row id="feature_row_quantum_cryptography" %}
-
 {% include feature_row id="feature_row_amalthea" %}
+{% include feature_row id="feature_row_reed" %}
 
 {% include feature_row id="feature_row_more_info" %}
-
 {% include feature_row id="feature_row_drone_shots" %}
