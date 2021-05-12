@@ -3,7 +3,6 @@ title: "<br><br>quantum cryptography"
 header:
   overlay_image: /assets/images/banner4.jpg
   overlay_filter: 0.2
-  caption: ""
 excerpt: '<br><br>'
 toc: true
 toc_sticky: true
