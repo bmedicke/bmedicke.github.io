@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/banner2.jpg
 excerpt: "<br><br>"
 
-feature_row_1:
+feature_row_drone_shots:
   - image_path: assets/images/DJI_0786.jpg
     alt: "drone shot: fuschl"
     excerpt: "<br>"
@@ -23,7 +23,7 @@ feature_row_1:
     alt: "drone shot: salzburg"
     excerpt: "<br>"
 
-feature_row_2:
+feature_row_quantum_cryptography:
   - url: http://localhost:4000/project/quantum-cryptography/
     title: Quantum Cryptography
     excerpt: 'demonstration of quantum encrypted communication via the BB84 algorithm'
@@ -38,6 +38,6 @@ feature_row_2:
 
 ---
 
-{% include feature_row id="feature_row_1" %}
+{% include feature_row id="feature_row_quantum_cryptography" %}
 
-{% include feature_row id="feature_row_2" %}
+{% include feature_row id="feature_row_drone_shots" %}
