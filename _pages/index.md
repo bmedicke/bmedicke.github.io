@@ -50,7 +50,7 @@ feature_row_amalthea:
     excerpt: <br>
 
 feature_row_reed:
-  - url: ""
+  - url: "project/REED"
     title: "REED"
     excerpt: "collection of notes about reverse engineering and exploit development"
     btn_label: "read more"
