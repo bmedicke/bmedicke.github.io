@@ -1,8 +1,14 @@
 ---
-title: "quantum cryptography"
-last_modified_at: 2021-05-11 13:01
-categories:
-  - project
+title: "<br><br>quantum cryptography"
+header:
+  overlay_image: /assets/images/banner4.jpg
+  overlay_filter: 0.2
+  caption: ""
+excerpt: '<br><br>'
+toc: true
+toc_sticky: true
+toc_label: "quantum cryptography"
+toc_icon: "key"
 tags:
   - Pyton
   - JupyterLab
@@ -12,8 +18,12 @@ tags:
   - cryptography
   - data science
   - security
+categories:
+  - project
+last_modified_at: 2021-05-11 13:01
 ---
 
+## the project
 
 The goal of this project is to demonstrate quantum-cryptography-based one-time pad communication via
 the BB84 protocol using a non-single photon source.
