@@ -31,7 +31,7 @@ the BB84 protocol using a non-single photon source.
 Check out the [git repository](https://github.com/bmedicke/quantum_cryptography) for more details, code, printable 3D models, and instructions.
 
 
-## quantum key distribution
+## key distribution
 
 The basic order of events for the BB84 protocol are the following two steps:
 
