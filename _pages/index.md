@@ -1,16 +1,11 @@
 ---
 layout: splash
+title: portfolio
 permalink: "/"
 classes:
   - landing
-title: '<br><br>projects'
-classes:
-  - landing
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/banner2.jpg
-excerpt: <br><br>
+  image: /assets/images/banner2.jpg
 
 feature_row_drone_shots:
   - image_path: "assets/images/DJI_0786.jpg"
