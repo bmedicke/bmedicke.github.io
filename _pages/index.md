@@ -14,12 +14,14 @@ excerpt: "<br><br>"
 
 feature_row_1:
   - image_path: assets/images/DJI_0786.jpg
-    alt: "fuschl"
+    alt: "drone shot: fuschl"
     excerpt: "<br>"
   - image_path: assets/images/DJI_0052.jpg
-    alt: "salzburg"
+    alt: "drone shot: salzburg"
+    excerpt: "<br>"
   - image_path: assets/images/DJI_0082.jpg
-    alt: "salzburg"
+    alt: "drone shot: salzburg"
+    excerpt: "<br>"
 
 feature_row_2:
   - url: http://localhost:4000/project/quantum-cryptography/
@@ -31,7 +33,8 @@ feature_row_2:
     alt: "quantum cryptography: filter wheel"
     excerpt: "<br>"
   - image_path: "assets/images/Screenshot 2021-05-12 at 08.35.09.jpg"
-    alt: "quantum cryptography: filter wheel"
+    alt: "quantum cryptography: JupyterLab notebook of Alice"
+    excerpt: "<br>"
 
 ---
 
