@@ -24,7 +24,7 @@ feature_row_drone_shots:
     excerpt: "<br>"
 
 feature_row_quantum_cryptography:
-  - url: http://localhost:4000/project/quantum-cryptography/
+  - url: project/quantum-cryptography
     title: quantum cryptography
     excerpt: 'demonstration of quantum encrypted communication via the BB84 algorithm'
     btn_label: "read more"
