@@ -35,7 +35,7 @@ feature_row_amalthea:
   - image_path: "assets/images/perlin-noise-01.jpg"
     alt: "amalthea: perlin noise"
     excerpt: "<br>"
-  - url: "project/amalthea"
+  - url: "project/Amalthea"
     title: "Amalthea"
     excerpt: "Notebooks for JupyterLab, creative coding exercises, demos and tutorials"
     btn_label: "read more"
