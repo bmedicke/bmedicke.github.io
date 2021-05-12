@@ -36,8 +36,23 @@ feature_row_quantum_cryptography:
     alt: "quantum cryptography: JupyterLab notebook of Alice"
     excerpt: "<br>"
 
+feature_row_amalthea:
+  - image_path: "assets/images/perlin-noise-01.jpg"
+    alt: "amalthea: perlin noise"
+    excerpt: "<br>"
+  - url: "project/amalthea"
+    title: "amalthea"
+    excerpt: "collection of Notebooks for JupyterLab, creative coding excercises and various demos and tutorials"
+    btn_label: "read more"
+    btn_class: "btn--light-outline btn--small"
+  - image_path: "assets/images/speedtest00.jpg"
+    alt: "amalthea: speedtest graph"
+    excerpt: <br>
+
 ---
 
 {% include feature_row id="feature_row_quantum_cryptography" %}
+
+{% include feature_row id="feature_row_amalthea" %}
 
 {% include feature_row id="feature_row_drone_shots" %}
