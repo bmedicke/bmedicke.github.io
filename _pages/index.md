@@ -42,7 +42,7 @@ feature_row_amalthea:
     excerpt: "<br>"
   - url: "project/amalthea"
     title: "amalthea"
-    excerpt: "collection of Notebooks for JupyterLab, creative coding exercises and various demos and tutorials"
+    excerpt: "various Notebooks for JupyterLab, creative coding exercises, demos and tutorials"
     btn_label: "read more"
     btn_class: "btn--light-outline btn--small"
   - image_path: "assets/images/speedtest00.jpg"
