@@ -14,10 +14,12 @@ tags:
   - security
 ---
 
-## the project
 
 The goal of this project is to demonstrate quantum-cryptography-based one-time pad communication via
 the BB84 protocol using a non-single photon source.
+
+Check out the [git repository](https://github.com/bmedicke/quantum_cryptography) for more details, code, printable 3D models, and instructions.
+
 
 ## quantum key distribution
 
