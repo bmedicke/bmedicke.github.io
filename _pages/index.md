@@ -49,10 +49,25 @@ feature_row_amalthea:
     alt: "amalthea: speedtest graph"
     excerpt: <br>
 
+feature_row_more_info:
+  - image_path: "assets/images/auckland_marina.gif"
+    alt: "arvakr: timelpase of the auckland marina"
+    excerpt: <br>
+  - image_path: "assets/images/cellular5.png"
+    alt: "cellurar-automata-mapgen: 3D view"
+    excerpt: <br>
+  - url: "https://github.com/bmedicke"
+    title: "more projects"
+    excerpt: "<br>"
+    btn_label: "github.com/bmedicke"
+    btn_class: "btn--small btn--primary"
+
 ---
 
 {% include feature_row id="feature_row_quantum_cryptography" %}
 
 {% include feature_row id="feature_row_amalthea" %}
+
+{% include feature_row id="feature_row_more_info" %}
 
 {% include feature_row id="feature_row_drone_shots" %}
