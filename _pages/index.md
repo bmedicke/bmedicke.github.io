@@ -7,16 +7,16 @@ classes:
 header:
   image: /assets/images/banner2.jpg
 
-feature_row_drone_shots:
+gallery:
   - image_path: "assets/images/DJI_0786.jpg"
+    url: "assets/images/DJI_0786.jpg"
     alt: "drone shot: fuschl"
-    excerpt: "<br>"
   - image_path: "assets/images/DJI_0052.jpg"
+    url: "assets/images/DJI_0052.jpg"
     alt: "drone shot: salzburg"
-    excerpt: "<br>"
   - image_path: "assets/images/DJI_0082.jpg"
+    url: "assets/images/DJI_0082.jpg"
     alt: "drone shot: salzburg"
-    excerpt: "<br>"
 
 feature_row_quantum_cryptography:
   - url: "project/quantum-cryptography"
@@ -79,4 +79,4 @@ feature_row_more_info:
 {% include feature_row id="feature_row_reed" %}
 
 {% include feature_row id="feature_row_more_info" %}
-{% include feature_row id="feature_row_drone_shots" %}
+{% include gallery %}
