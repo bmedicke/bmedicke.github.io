@@ -1,7 +1,7 @@
 ---
 title: "quantum cryptography"
 header:
-  image: /assets/images/banner4.jpg
+  image: /assets/images/banner6.jpg
 toc: true
 toc_sticky: true
 toc_label: "quantum cryptography"
