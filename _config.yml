@@ -22,6 +22,11 @@ email: bmedicke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   porfolio of Benjamin Medicke, collection of projects
 github_username: bmedicke
+site_url: https://benmedicke.com
+repository: "bmedicke/bmedicke.github.io"
+head-scripts: # js imports.
+logo:
+breadcrumbs: false
 minimal_mistakes_skin: dark
 search: true
 
