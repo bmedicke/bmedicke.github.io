@@ -2,6 +2,7 @@
 title: "quantum cryptography"
 header:
   image: /assets/images/banner4.jpg
+  caption: salzburg
 toc: true
 toc_sticky: true
 toc_label: "quantum cryptography"

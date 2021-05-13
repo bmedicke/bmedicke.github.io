@@ -6,6 +6,7 @@ classes:
   - landing
 header:
   image: /assets/images/banner6.jpg
+  caption: vienna
 
 gallery:
   - image_path: "assets/images/DJI_0786.jpg"
