@@ -5,7 +5,7 @@ permalink: "/"
 classes:
   - landing
 header:
-  image: /assets/images/banner2.jpg
+  image: /assets/images/banner6.jpg
 
 gallery:
   - image_path: "assets/images/DJI_0786.jpg"
