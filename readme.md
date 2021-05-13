@@ -5,5 +5,5 @@
 ```sh
 bundle
 bundle update
-bundle exec jekyll serve --livereload --open-url
+bundle exec jekyll serve --livereload --open-url --incremental
 ```
