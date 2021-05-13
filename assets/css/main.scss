@@ -6,10 +6,54 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400&family=Roboto:wght@300;400&display=swap');
 
 .author__avatar {
   img {
     max-width: 220px;
     border-radius: 0%;
   }
+}
+
+p,
+.btn ,
+.author__bio p,
+.toc,
+.social-icons li,
+.page__footer-copyright,
+.author__urls {
+  font-family: Roboto;
+  font-weight: 300;
+}
+
+strong {
+  font-family: Roboto;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5,
+.masthead__inner-wrap,
+.page__hero-caption, .page-title,
+.archive__item-title, .archive__item-caption,
+.author__name,
+.back-to-top,
+.label,
+.mfp-title, .mfp-counter {
+  font-family: montserrat !important;
+}
+
+h1, h2, h3, h4, h5
+{
+  font-weight: 400 !important;
+}
+
+a.site-title, li.masthead__menu-item {
+  font-weight: 200;
+}
+
+.page__hero-caption,
+span.site-subtitle,
+.archive__item-caption,
+.mfp-title, .mfp-counter {
+  font-weight: 100;
 }
