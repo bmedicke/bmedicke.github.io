@@ -79,8 +79,11 @@ feature_row_more_info:
 ---
 
 {% include feature_row id="feature_row_quantum_cryptography" %}
+
+<!--
 {% include feature_row id="feature_row_amalthea" %}
 {% include feature_row id="feature_row_reed" %}
+-->
 
 {% include feature_row id="feature_row_more_info" %}
 {% include gallery %}
