@@ -6,7 +6,7 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;400&family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;400&family=Lato:wght@300;400&display=swap');
 
 .author__avatar {
   img {
@@ -22,12 +22,12 @@ p,
 .social-icons li,
 .page__footer-copyright,
 .author__urls {
-  font-family: Roboto;
+  font-family: Lato;
   font-weight: 300;
 }
 
 strong {
-  font-family: Roboto;
+  font-family: Lato;
   font-weight: 400;
 }
 
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5,
 .back-to-top,
 .label,
 .mfp-title, .mfp-counter {
-  font-family: Montserrat !important;
+  font-family: Raleway !important;
 }
 
 h1, h2, h3, h4, h5
