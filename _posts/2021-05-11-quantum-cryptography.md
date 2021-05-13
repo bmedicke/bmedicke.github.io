@@ -18,6 +18,13 @@ tags:
 categories:
   - project
 last_modified_at: 2021-05-11 13:01
+
+gallery_hardware:
+  - image_path: "assets/images/IMG_0571.jpg"
+    url: "assets/images/IMG_0571.jpg"
+    title: ThorLabs filter wheel
+    alt: ThorLabs filter wheel
+
 ---
 
 The goal of this project is to demonstrate quantum-cryptography-based one-time pad communication via
@@ -25,6 +32,7 @@ the BB84 protocol using a non-single photon source.
 
 Check out the [git repository](https://github.com/bmedicke/quantum_cryptography) for more details, code, printable 3D models, and instructions.
 
+{% include gallery id="gallery_hardware" %}
 
 ## key distribution
 
