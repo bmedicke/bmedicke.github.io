@@ -11,12 +11,15 @@ gallery:
   - image_path: "assets/images/DJI_0786.jpg"
     url: "assets/images/DJI_0786.jpg"
     alt: "drone shot: fuschl"
+    title: fuschl
   - image_path: "assets/images/DJI_0052.jpg"
     url: "assets/images/DJI_0052.jpg"
     alt: "drone shot: salzburg"
+    title: salzburg
   - image_path: "assets/images/DJI_0082.jpg"
     url: "assets/images/DJI_0082.jpg"
     alt: "drone shot: salzburg"
+    title: salzburg
 
 feature_row_quantum_cryptography:
   - url: "project/quantum-cryptography"
