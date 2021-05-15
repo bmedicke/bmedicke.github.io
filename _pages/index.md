@@ -72,7 +72,7 @@ feature_row_more_info:
     image_caption: "cellular-automata-mapgen"
   - url: "https://github.com/bmedicke"
     title: "more projects"
-    excerpt: "I usually prefer writing code to blog posts. These&nbsp;and other projects can be found at:"
+    excerpt: "I write more code than blog posts. You&nbsp;can&nbsp;find&nbsp;my other projects at:"
     btn_label: "github.com/bmedicke"
     btn_class: "btn--small btn--primary"
 
