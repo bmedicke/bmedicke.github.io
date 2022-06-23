@@ -25,7 +25,7 @@ gallery:
 feature_row_quantum_cryptography:
   - url: "project/quantum-cryptography"
     title: "quantum cryptography"
-    excerpt: "demonstration of quantum encrypted communication via the BB84 protocol"
+    excerpt: "demonstration of quantum encrypted communication via the BB84 protocol and building of a prototype"
     btn_label: "read more"
     btn_class: "btn--light-outline btn--small"
   - image_path: "assets/images/IMG_0571.jpg"
