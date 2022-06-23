@@ -3,8 +3,11 @@
 
 ## local development
 
+* https://jekyllrb.com/docs/installation/macos/
+
 ```sh
 bundle
 bundle update
 bundle exec jekyll serve --livereload --open-url --incremental
 ```
+
