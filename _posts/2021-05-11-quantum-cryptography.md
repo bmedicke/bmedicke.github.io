@@ -8,7 +8,7 @@ toc_sticky: true
 toc_label: "quantum cryptography"
 toc_icon: "atom"
 tags:
-  - Pyton
+  - Python
   - JupyterLab
   - hardware
   - Docker
