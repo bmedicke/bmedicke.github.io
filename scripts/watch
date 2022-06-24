@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
 bundle exec jekyll clean
-bundle exec jekyll serve --livereload --open-url --incremental
+bundle exec jekyll server --incremental --draft --open-url --livereload
