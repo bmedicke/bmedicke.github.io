@@ -10,4 +10,4 @@ bundle
 bundle update
 bundle exec jekyll serve --livereload --open-url --incremental
 ```
-
+* see `scripts/`

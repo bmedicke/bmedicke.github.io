@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+rm -rf simulator
+cd ../optical-cavity/simulator
+npm run build
+cd -
+cp -r ../optical-cavity/simulator/build/ simulator
