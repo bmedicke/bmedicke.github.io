@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simulator/static/css/main.920a8357.css",
-    "main.js": "/simulator/static/js/main.039f7ca0.js",
+    "main.js": "/simulator/static/js/main.d627516d.js",
     "static/media/maniac.jpeg": "/simulator/static/media/maniac.e7c65742b09b1f5562ff.jpeg",
     "index.html": "/simulator/index.html",
     "main.920a8357.css.map": "/simulator/static/css/main.920a8357.css.map",
-    "main.039f7ca0.js.map": "/simulator/static/js/main.039f7ca0.js.map"
+    "main.d627516d.js.map": "/simulator/static/js/main.d627516d.js.map"
   },
   "entrypoints": [
     "static/css/main.920a8357.css",
-    "static/js/main.039f7ca0.js"
+    "static/js/main.d627516d.js"
   ]
 }
