@@ -3,6 +3,4 @@ permalink: /whoami/
 title: "whoami"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-![Benjamin Medicke profile](/assets/images/profile.jpg)
+I’m a cybersecurity specialist and [Co‑Lead of the Pentesting team at Deloitte Austria](https://www.deloitte.com/at/de/about/people/profiles.bmedicke+d6b11fc3.html). With a background in software development and IT security, I support organizations in strengthening their IT systems through hands‑on penetration testing, application security work, and developer training in secure coding and DevSecOps.

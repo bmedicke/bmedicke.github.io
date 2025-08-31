@@ -3,7 +3,9 @@ main:
     url: /years/
   # - title: "categories"
   #   url: /categories/
-  - title: "tags"
-    url: /tags/
+  #- title: "tags"
+  #  url: /tags/
+  #- title: "knowledge base"
+  #  url: https://kb.benmedicke.com
   - title: "whoami"
     url: /whoami/

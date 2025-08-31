@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Ben   🚀"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am currently pursuing a master's degree in IT security."
+  bio    : "Specializing in offensive security and application security"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
